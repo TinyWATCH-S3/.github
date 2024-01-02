@@ -1,7 +1,7 @@
 # Introducing TinyWATCH S3
 TinyWATCH S3 is an open source, hackable, smart watch designed by Unexpected Maker.
 
-![TinyWATCH S3](images/tw_01.jpg "TinyWATCH S3")
+![TinyWATCH S3](https://d2j6dbq0eux0bg.cloudfront.net/images/90477757/4016362218.jpg)
 
 In this organisation you'll find repositories for the hardware design files, official firmware, 3D Models and Examples for the TinyWATCH S3 project.
 
